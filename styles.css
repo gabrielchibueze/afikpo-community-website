@@ -1,0 +1,189 @@
+body {
+    background-image: radial-gradient(#e4d9ff, rgb(224, 209, 209));
+    margin-right: auto;
+    margin-left: auto;
+    width: 1300px;
+    border: 20px solid rgb(224, 209, 209);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 3px;
+    font-family: kanit-regular;
+}
+@font-face {
+    font-family: kanit-regular;
+    src: url("Kanit-Regular.ttf");
+    
+}
+@font-face {
+    font-family: publicsans;
+    src: url("PublicSans-regular.ttf")
+}
+@font-face {
+    font-family: libre-italics;
+    src: url("LibreBaskerville-Italic.ttf");
+}
+h2 {
+    font-family: libre-italics;
+    font-size: larger;
+}
+.widget1 {
+    background-image: url("images/afikpo-north.jpg");
+    width: auto;
+    color: black;
+    height: 350px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 35px;
+    padding-top: 50px;
+    text-shadow: 5px 5px 20x white;
+    font-family: 'Signika Negative', sans-serif;
+}
+.widget1:hover {
+    background-image: url("images/afikpo-main2.jpg");
+}
+.hov1:hover {
+    background-image: url("images/nursing-school.jpg");
+}
+.hov2:hover {
+    background-image: url("images/culture.jpg");
+}
+.hov3:hover {
+    background-image: url("images/afikpo-hotels.jpg");
+}
+.widget2 {
+    background: #e6e0c0f8;
+    text-align: justify;
+    padding: 10px 150px 10px 100px;
+    font-size: 15px;
+    border-top: 10px whitesmoke solid;
+    padding-bottom: 40px;
+    font-size: larger;
+   
+}
+.widget3 {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    font-style: normal;
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-top: 10px whitesmoke solid;
+    padding-bottom: 40px;
+    
+
+    
+}
+.hov1 {
+    border: aquamarine 5px solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding-top: 0px;
+    background-size: cover;
+    background-image: url("images/AIFPU.jpg");
+}
+.hov2 {
+    border: aquamarine 5px solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding-top: 0px;
+    background-size: cover;
+    background-image: url("images/afikpo-cultural-dance.jpg");
+}
+.hov3 {
+    border: aquamarine 5px solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding-top: 0px;
+    background-size: cover;
+    background-image: url("images/hotels.jpg");
+}
+p {
+    text-align: justify;
+    width: 300px;
+    height: auto;
+    padding-top: 8px;
+    margin: 0px;
+}
+
+.frame {
+    border-top: 10px whitesmoke solid;
+    border-bottom: 10px whitesmoke solid;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    padding-top: 0px;
+    
+}
+
+.widget4 {
+    width: 650px;
+    text-align: center;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    background-color: aquamarine;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+.profile-photo {
+    width: 260px;
+    height: 280px;
+    border-radius: 10px;
+}
+.profile {
+    padding-top: 60px;
+    margin-top: 20px;
+}
+.widget5 {
+    width: auto;
+    padding: 10px 10px 50px 10px;
+    width: auto;
+    font-size: 15px;
+    border-top: 10px whitesmoke solid;
+    text-align: center;
+    border-radius: 40px;
+    border-bottom: #344e41 10px solid;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.text {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    padding: 0pc 10px 10px 10px;
+}
+.foot {
+    width: auto;
+    text-align: center;
+}
+.head {
+    width: auto;
+    text-align: justify;
+}
+span {
+    border-bottom: 3px black solid;
+}
+.span1 {
+    border-bottom: 3px rgb(243, 239, 239) solid;
+    border-bottom: white 8px solid;
+}
+.tourguide {
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
